@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gdp-vis-fcc/static/css/main.cedfddbf.css",
+    "main.js": "/gdp-vis-fcc/static/js/main.e1d45721.js",
+    "static/js/453.36764cbe.chunk.js": "/gdp-vis-fcc/static/js/453.36764cbe.chunk.js",
+    "index.html": "/gdp-vis-fcc/index.html",
+    "main.cedfddbf.css.map": "/gdp-vis-fcc/static/css/main.cedfddbf.css.map",
+    "main.e1d45721.js.map": "/gdp-vis-fcc/static/js/main.e1d45721.js.map",
+    "453.36764cbe.chunk.js.map": "/gdp-vis-fcc/static/js/453.36764cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cedfddbf.css",
+    "static/js/main.e1d45721.js"
+  ]
+}
